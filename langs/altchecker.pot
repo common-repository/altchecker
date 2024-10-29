@@ -1,0 +1,83 @@
+# Copyright (C) 2014 Alt checker
+# This file is distributed under the same license as the Alt checker package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Alt checker 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/altchecker\n"
+"POT-Creation-Date: 2014-07-28 17:03:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: altchecker.php:54
+msgid "Missing alternate text"
+msgstr ""
+
+#: altchecker.php:55
+msgid "Dear %s,"
+msgstr ""
+
+#: altchecker.php:56
+msgid "Your following posts contain images without (or possible automatic) alternate text."
+msgstr ""
+
+#: altchecker.php:56
+msgid ""
+"Please fill out these fields so that screen reader users can also access "
+"this information!"
+msgstr ""
+
+#: altchecker.php:69
+msgid ""
+"This is an automatically generated message. Don't answer this e-mail address!"
+msgstr ""
+
+#: altchecker.php:70
+msgid "Best Regards:"
+msgstr ""
+
+#: altchecker.php:73
+msgid "Sending e-mail to %s  was succesfull!"
+msgstr ""
+
+#: altchecker.php:76
+msgid "Sending e-mail to %s  failed!"
+msgstr ""
+
+#: altchecker.php:89
+msgid "Send e-mail to authors"
+msgstr ""
+
+#: altchecker.php:93
+msgid "Post"
+msgstr ""
+
+#: altchecker.php:93
+msgid "Image"
+msgstr ""
+
+#: altchecker.php:155
+msgid "Your posts have no images with alternate text problems."
+msgstr ""
+
+#. #-#-#-#-#  altchecker.pot (Alt checker 0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  altchecker.pot (Alt checker 0.1)  #-#-#-#-#
+#. Description of the plugin/theme
+msgid "Alt checker"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.infoalap.hu"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Aron Ocsvari"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.oaron.hu"
+msgstr ""
